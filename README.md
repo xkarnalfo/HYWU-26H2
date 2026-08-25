@@ -1,2 +1,2 @@
-# HYWU
-Training materials for students attending the 26H2AIP course at HYWU.
+# 인공지능 실무 클래스
+실습에 필요한 자료와 데이터를 공유하기 위한 Repository입니다.
